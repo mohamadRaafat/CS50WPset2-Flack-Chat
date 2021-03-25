@@ -44,7 +44,7 @@ python-dateutil==2.8.1
 python-editor==1.0.4
 python-engineio==3.13.0
 python-socketio==4.6.0
-PyYAML==5.1.2
+PyYAML==5.4
 query-string==2019.4.13
 requests==2.22.0
 six==1.12.0
